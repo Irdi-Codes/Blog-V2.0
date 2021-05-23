@@ -43,4 +43,10 @@ aside { max-width: 700px; margin: auto; }
 aside a { text-decoration: none; text-transform: uppercase; color: grey; }
 
 aside a:hover { color: black; }
+
+p { margin-bottom: 5px; }
+
+.flavio { margin-left: 15px; }
+
+.flavio li { list-style: disc; font-weight: normal; }
 /*# sourceMappingURL=style.css.map */
